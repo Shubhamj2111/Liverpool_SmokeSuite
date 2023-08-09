@@ -3,14 +3,14 @@
    <description></description>
    <name>Buscar1</name>
    <tag></tag>
-   <elementGuidId>caf7fb4a-bb08-4033-93d7-f3d7cf05a802</elementGuidId>
+   <elementGuidId>85028318-950c-4d6a-b52d-4fd0681be696</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>CSS</key>
          <value> #mainSearchbar</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>

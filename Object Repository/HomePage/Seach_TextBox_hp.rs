@@ -3,7 +3,7 @@
    <description></description>
    <name>Seach_TextBox_hp</name>
    <tag></tag>
-   <elementGuidId>cfa8f443-f074-4dd7-988d-2649cf71f434</elementGuidId>
+   <elementGuidId>16f5e590-89e4-440b-b91d-a000d231d22a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>78722cc3-bacc-45fd-bb4e-faa78205bdf7</webElementGuid>
+      <webElementGuid>66f661c8-f145-4f38-b3ca-e40fe678c5c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mainSearchbar</value>
-      <webElementGuid>a7124625-f362-4405-912d-2b3880749ae5</webElementGuid>
+      <webElementGuid>85b7cfab-5347-4646-87ad-1eabbd09f0b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control search-bar plp-no__results</value>
-      <webElementGuid>e1df18d0-c530-4718-ad00-263ad5fd1bb5</webElementGuid>
+      <webElementGuid>3c147e65-e9da-4fc3-ac7d-bdadc22837fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Buscar ...</value>
-      <webElementGuid>5beba1c2-8a45-414d-a235-65347e750950</webElementGuid>
+      <webElementGuid>508a61af-9221-488f-849a-8f4aaa125f2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dd3e92c9-3cf0-424d-bf4d-3662ad33e009</webElementGuid>
+      <webElementGuid>0d0f4de8-1111-4225-a608-2c3905fe49a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Buscar...</value>
-      <webElementGuid>52861f08-c0ad-4b25-bb4f-c1f298e4c158</webElementGuid>
+      <webElementGuid>ef69c754-cd74-4510-a7ea-b97a73589467</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f6c00fb3-a2ea-4551-be81-a954c522c226</webElementGuid>
+      <webElementGuid>c45cb866-16f5-4b20-afd6-cf83f7fb0c4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mainSearchbar&quot;)</value>
-      <webElementGuid>17b29acb-2a3b-4606-8ec8-1ec1a2703900</webElementGuid>
+      <webElementGuid>a0d57e9b-2c0d-4032-bc87-7427c11de200</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mainSearchbar']</value>
-      <webElementGuid>2ad62ea4-31e5-4d0a-b894-6a348ad9f246</webElementGuid>
+      <webElementGuid>c0daa6c2-d2d1-446e-b081-d35dcabc6f25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[3]/div/div/input</value>
-      <webElementGuid>227630a6-8af1-41be-892e-46a949caac89</webElementGuid>
+      <webElementGuid>6897a2be-9316-44bc-83ed-b8ee680fd471</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>c7a94865-918d-4612-86f9-149b0a8b4953</webElementGuid>
+      <webElementGuid>c71f83f1-2a80-4bb3-a01c-7d942e03a9ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'mainSearchbar' and @type = 'text' and @placeholder = 'Buscar...']</value>
-      <webElementGuid>91d8a516-5177-4096-982a-739fcb41e586</webElementGuid>
+      <webElementGuid>d028f9c1-8cc3-4093-8a59-6ce42e003ff3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

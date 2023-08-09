@@ -41,11 +41,11 @@ WebUI.verifyElementPresent(findTestObject('HomePage/MainSearchbar_HP'), 0)
 
 WebUI.verifyElementPresent(findTestObject('HomePage/Iniciar sesion'), 0)
 
-WebUI.verifyElementPresent(findTestObject('HomePage/Tiendas_HP'), 0)
+WebUI.verifyElementPresent(findTestObject('HomePage/a_Tiendas_HP'), 0)
 
-WebUI.verifyElementPresent(findTestObject('HomePage/Mis Compras_hp'), 0)
+WebUI.verifyElementPresent(findTestObject('HomePage/a_Mis Compras_hp'), 0)
 
-WebUI.verifyElementPresent(findTestObject('HomePage/Ayuda_HP'), 0)
+WebUI.verifyElementPresent(findTestObject('HomePage/a_Ayuda_HP'), 0)
 
 WebUI.closeBrowser()
 

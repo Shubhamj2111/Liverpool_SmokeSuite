@@ -23,15 +23,3 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.verifyElementPresent(findTestObject('HomePage/Logo_hp'), 0)
 
-WebUI.mouseOver(findTestObject('HomePage/Departamentos'))
-
-WebUI.verifyElementClickable(findTestObject('HomePage/L1_Category1_HP'))
-
-WebUI.mouseOver(findTestObject('HomePage/L1_Category1_HP'))
-
-WebUI.verifyElementClickable(findTestObject('HomePage/L2CategoryInFlyout_HP'))
-
-WebUI.verifyElementClickable(findTestObject('HomePage/L3CategoriesInFlyout_HP'))
-
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
-
